@@ -1,0 +1,35 @@
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea
+
+# Eclipse
+.settings
+.classpath
+.project
+
+# NetBeans
+nbproject/private
+nbbuild
+dist
+nbdist
+nbactions.xml
+nb-configuration.xml
+
+# Mac
+.DS_Store
+
+# Gradle
+.gradle
+build
+
+# Genius
+genius/boapartyrepo.xml
+genius/boarepository.xml
+genius/domainrepository.xml
+genius/multipartyprotocolrepository.xml
+genius/partyrepository.xml
+genius/protocolrepository.xml
+genius/etc
+genius/log
