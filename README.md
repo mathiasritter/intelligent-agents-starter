@@ -52,14 +52,6 @@ The libraries `genius` and `gurobi` are included per default.
 If you want to update this configuration, please edit the `build.gradle.kts` file.
 
 
-## 🆘 Troubleshooting
+## 🆘 Help
 
-Below are some common issues with solutions.
-If you run into any other issues or have any questions, feel free to contact me at [mr2n17@soton.ac.uk](mailto:mr2n17@soton.ac.uk).
-
-### NoClassDefFoundError: javax/activation/DataSource
-
-Gradle Wrapper is using the wrong Java version (i.e. not Java 8).
-If you have multiple Java versions installed, set the `JAVA_HOME` environment variable to the Java 8 directory when you invoke Gradle Wrapper.
-
-For example (on Mac/Linux), to run the Genius GUI execute: `JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home ./gradlew run`
+If you run into any issues or have any questions, feel free to contact me at [mr2n17@soton.ac.uk](mailto:mr2n17@soton.ac.uk).
