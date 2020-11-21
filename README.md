@@ -1,4 +1,4 @@
-# Intelligent Agents Starter Template
+# 🤖 Intelligent Agents Starter Template
 
 This is a starter template for development of an agent with Genius and Gurobi that requires zero IDE configuration - thanks to Gradle!
 
@@ -66,7 +66,8 @@ This section describes configuration of your Agent and Gradle.
 ### Agent
 
 If you want to add your agent in the Genius GUI, run the GUI (see above), which will also compile your source code.
-In Genius, proceed to add your agent as usual. The compiled Agent `class` is located in `build/classes/java/main` + directories named according to your java packages.
+In Genius, proceed to add your agent as usual.
+The compiled Agent `class` is located in `build/classes/java/main` + directories named according to your java packages.
 
 ### Gradle
 
