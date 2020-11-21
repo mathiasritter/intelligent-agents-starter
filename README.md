@@ -1,6 +1,9 @@
 # 🤖 Intelligent Agents Starter Template
 
-This is a starter template for development of an agent with Genius and Gurobi that requires zero IDE configuration - thanks to Gradle!
+This is a starter template for hassle-free development of an agent with Genius and Gurobi:\
+✅ Requires zero IDE configuration - simply import and start coding\
+✅ Run the Genius GUI or a tournament - with a single command or mouse click\
+✅ Build a jar file that includes sources - fully automated
 
 The template contains two example agents: a simple example, and a more advanced example using the BOA framework.
 Both agents simply place random bids above a target.
