@@ -18,7 +18,7 @@ repositories {
 
 dependencies {
     // Genius
-    implementation("genius:genius:9.1.12")
+    implementation("genius:genius:9.1.13")
 
     // Gurobi
     implementation("gurobi:gurobi:9.1.0")
